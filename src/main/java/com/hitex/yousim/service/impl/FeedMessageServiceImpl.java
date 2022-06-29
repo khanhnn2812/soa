@@ -7,7 +7,6 @@ import com.hitex.yousim.dto.request.feedmessage.FeedMessageReq;
 import com.hitex.yousim.dto.response.feedmessage.FeedMessageRes;
 
 import com.hitex.yousim.model.FeedMessage;
-import com.hitex.yousim.model.User;
 import com.hitex.yousim.read.RSSFeedParser;
 import com.hitex.yousim.service.FeedMessageService;
 import com.hitex.yousim.utils.MessageUtils;
