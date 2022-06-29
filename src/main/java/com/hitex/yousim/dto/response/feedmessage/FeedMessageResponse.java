@@ -1,6 +1,6 @@
 package com.hitex.yousim.dto.response.feedmessage;
 
-import com.hitex.yousim.model.FeedMessage;
+import com.hitex.yousim.dto.model.FeedMessage;
 import lombok.Data;
 
 @Data

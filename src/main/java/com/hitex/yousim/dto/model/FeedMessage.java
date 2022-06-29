@@ -1,4 +1,4 @@
-package com.hitex.yousim.model;
+package com.hitex.yousim.dto.model;
 
 /*
  * Represents one RSS message

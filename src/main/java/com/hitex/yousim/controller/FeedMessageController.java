@@ -1,10 +1,6 @@
 package com.hitex.yousim.controller;
 
-import com.hitex.yousim.dto.request.BaseRequestData;
-import com.hitex.yousim.dto.request.feedmessage.FeedMessageReq;
-import com.hitex.yousim.dto.response.feedmessage.FeedMessageRes;
-import com.hitex.yousim.dto.response.feedmessage.FeedMessageResponse;
-import com.hitex.yousim.model.FeedMessage;
+import com.hitex.yousim.dto.model.FeedMessage;
 import com.hitex.yousim.service.FeedMessageService;
 import com.hitex.yousim.utils.exception.ApplicationException;
 import org.springframework.beans.factory.annotation.Autowired;

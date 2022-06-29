@@ -1,4 +1,4 @@
-package com.hitex.yousim.model.logTransaction;
+package com.hitex.yousim.dto.model.logTransaction;
 
 import javax.persistence.*;
 import java.io.Serializable;

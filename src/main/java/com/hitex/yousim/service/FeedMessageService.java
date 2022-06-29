@@ -1,8 +1,6 @@
 package com.hitex.yousim.service;
 
-import com.hitex.yousim.dto.request.BaseRequestData;
-import com.hitex.yousim.dto.response.feedmessage.FeedMessageRes;
-import com.hitex.yousim.model.FeedMessage;
+import com.hitex.yousim.dto.model.FeedMessage;
 import com.hitex.yousim.utils.exception.ApplicationException;
 
 import java.text.ParseException;

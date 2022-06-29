@@ -1,4 +1,4 @@
-package com.hitex.yousim.model;
+package com.hitex.yousim.dto.model;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import lombok.Data;

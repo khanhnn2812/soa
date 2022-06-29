@@ -1,4 +1,4 @@
-package com.hitex.yousim.model.logTransaction;
+package com.hitex.yousim.dto.model.logTransaction;
 
 public class BaseInfoRequest {
     private String language;

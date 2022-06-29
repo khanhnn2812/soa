@@ -4,7 +4,7 @@
  */
 package com.hitex.yousim.read;
 
-import com.hitex.yousim.model.FeedMessage;
+import com.hitex.yousim.dto.model.FeedMessage;
 
 import javax.xml.stream.XMLEventReader;
 import javax.xml.stream.XMLInputFactory;
